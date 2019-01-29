@@ -55,3 +55,38 @@
 [2019-01-29 13:59:55.443] [sharedprocess] [info] Scanned user extensions: 1
 [2019-01-29 14:04:55.455] [sharedprocess] [info] Scanned user extensions: 1
 [2019-01-29 14:09:55.468] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:14:55.487] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:19:55.497] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:24:55.510] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:29:55.523] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:34:55.536] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:36:56.316] [sharedprocess] [info] Installing extension: vscode-github
+[2019-01-29 14:36:56.339] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:36:56.341] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:36:56.350] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:36:56.360] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:36:56.364] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-29 14:36:56.511] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-29 14:36:56.517] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-29 14:36:56.522] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-29 14:36:58.697] [sharedprocess] [info] Downloaded extension: vscode-github /tmp/b6c6f0a3-bc61-4095-909b-47a0addc8cbe
+[2019-01-29 14:37:01.267] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.knisterpeter.vscode-github-0.30.1: knisterpeter.vscode-github-0.30.1
+[2019-01-29 14:37:01.267] [sharedprocess] [info] Renamed to /root/.vscode/extensions/knisterpeter.vscode-github-0.30.1
+[2019-01-29 14:37:01.270] [sharedprocess] [info] Installation completed. knisterpeter.vscode-github-0.30.1
+[2019-01-29 14:37:01.277] [sharedprocess] [info] Extensions installed successfully: knisterpeter.vscode-github
+[2019-01-29 14:37:01.395] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-29 14:37:01.437] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-29 14:37:05.526] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-29 14:37:05.528] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-29 14:37:05.532] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-29 14:37:05.554] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-29 14:37:05.558] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-29 14:37:05.841] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-29 14:37:05.848] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-29 14:37:05.853] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-29 14:37:05.884] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-29 14:37:05.913] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-29 14:37:06.055] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-29 14:37:06.777] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-29 14:42:06.792] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-29 14:47:06.808] [sharedprocess] [info] Scanned user extensions: 2
