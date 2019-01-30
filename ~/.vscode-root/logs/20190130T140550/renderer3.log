@@ -1,0 +1,2 @@
+[2019-01-30 14:05:52.593] [renderer3] [error] Failed to watch /home/lonewolf/Desktop/frontend/~/.vscode-root/logs/20190130T140550/output_3_20190130T140552 for changes (Error: watch /home/lonewolf/Desktop/frontend/~/.vscode-root/logs/20190130T140550/output_3_20190130T140552 ENOSPC)
+[2019-01-30 14:05:53.169] [renderer3] [info] no standard startup: not just one window
