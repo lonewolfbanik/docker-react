@@ -531,3 +531,515 @@ git symbolic-ref -q HEAD
 git for-each-ref --format='%(upstream)' 'refs/heads/master'
 git config --local --get remote.origin.url
 git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
+git symbolic-ref -q HEAD
+git for-each-ref --format='%(upstream)' 'refs/heads/master'
+git config --local --get remote.origin.url
+git branch
