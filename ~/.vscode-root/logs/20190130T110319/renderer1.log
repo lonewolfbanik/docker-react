@@ -1,0 +1,3 @@
+[2019-01-30 11:03:26.495] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-01-30 11:03:40.728] [renderer1] [info] no standard startup: panel is active
+[2019-01-30 11:03:46.659] [renderer1] [warning] UNRESPONSIVE extension host, 'PeterJausovec.vscode-docker' took 96% of 604.68ms, saved PROFILE here: '/tmp/exthost-5a6f18.cpuprofile' [{"id":"gc","total":5706,"percentage":1},{"id":"PeterJausovec.vscode-docker","total":579400,"percentage":96},{"id":"program","total":2065,"percentage":0},{"id":"self","total":5260,"percentage":1}]

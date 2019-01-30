@@ -278,3 +278,32 @@ fatal: no upstream configured for branch 'master'
 > git rev-list --left-right master...refs/remotes/origin/master
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
+> git show :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/App.js
+> git show :Dockerfile
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :docker-compose.yml
+> git show :.travis.yml
+> git show :Dockerfile
+> git show :src/App.js
+> git show :src/App.test.js
+> git show :Dockerfile.dev
+> git show :Dockerfile
+> git show :.travis.yml
+> git show :Dockerfile
+> git show :Dockerfile.dev
+> git show :Dockerfile
+> git show :.travis.yml

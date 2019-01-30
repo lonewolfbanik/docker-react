@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Hi there ! This is my first app in React with Docker using volumes for referencing!
-            Changes made with docker-compose! Added port 80 for nginx.
+            Changes made with docker-compose! Added port 80 for nginx.Added a new feature branch.
           </p>
           <a
             className="App-link"
