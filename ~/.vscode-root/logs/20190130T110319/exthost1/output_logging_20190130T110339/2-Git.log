@@ -88,3 +88,18 @@ fatal: no upstream configured for branch 'feature'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git show :src/App.js
+> git show :.travis.yml
+> git show :Dockerfile
+> git show :docker-compose.yml
+> git show :Dockerfile.dev
+> git show :Dockerfile
+> git show :.travis.yml
+> git show :docker-compose.yml
+> git show :.travis.yml
+> git show :Dockerfile
+> git show :Dockerfile.dev
+> git show :Dockerfile
+> git show :docker-compose.yml
+> git show :.travis.yml
+> git show :src/App.js
+> git show :.travis.yml
